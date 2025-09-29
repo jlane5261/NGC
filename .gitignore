@@ -53,3 +53,13 @@ dkms.conf
 
 # debug information files
 *.dwo
+
+# NGC specific build artifacts
+bin/
+obj/
+examples/example
+
+# NGC generated output files
+*.dat
+*.gp
+*.png
